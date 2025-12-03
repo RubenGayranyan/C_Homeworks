@@ -10,7 +10,7 @@
 #include <ctype.h>
 #include <string.h>
 
-const char *expr;
+const char* expr;
 
 double parseExpr();
 
